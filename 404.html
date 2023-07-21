@@ -1,6 +1,13 @@
-# Redirige todas las solicitudes a index.html
-<IfModule mod_rewrite.c>
-  RewriteEngine On RewriteBase / RewriteRule ^index\.html$ - [L] RewriteCond
-  %{REQUEST_FILENAME} !-f RewriteCond %{REQUEST_FILENAME} !-d RewriteRule .
-  /index.html [L]
-</IfModule>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>404 - Page Not Found</title>
+    <script>
+      // Redirigir a index.html en caso de que se acceda a una página no encontrada
+      window.location.replace("/maw-store");
+    </script>
+  </head>
+  <body>
+    <p>Redirecting...</p>
+  </body>
+</html>
