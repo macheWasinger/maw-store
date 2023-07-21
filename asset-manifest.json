@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/maw-store/static/css/main.e1b9ebc6.css",
-    "main.js": "/maw-store/static/js/main.8bca4711.js",
+    "main.js": "/maw-store/static/js/main.e49c57d5.js",
     "static/media/lavarropas.png": "/maw-store/static/media/lavarropas.795f66b7cf4b2e84a5a7.png",
     "static/media/smartTV.png": "/maw-store/static/media/smartTV.563c4a62b6fa2a407841.png",
     "static/media/notebook.png": "/maw-store/static/media/notebook.746bf39fcbb802be3873.png",
@@ -36,10 +36,10 @@
     "static/media/colchones.webp": "/maw-store/static/media/colchones.f4fc5a5625fa2f086173.webp",
     "index.html": "/maw-store/index.html",
     "main.e1b9ebc6.css.map": "/maw-store/static/css/main.e1b9ebc6.css.map",
-    "main.8bca4711.js.map": "/maw-store/static/js/main.8bca4711.js.map"
+    "main.e49c57d5.js.map": "/maw-store/static/js/main.e49c57d5.js.map"
   },
   "entrypoints": [
     "static/css/main.e1b9ebc6.css",
-    "static/js/main.8bca4711.js"
+    "static/js/main.e49c57d5.js"
   ]
 }
